@@ -220,7 +220,10 @@ Leveraging the cloud provides immense flexibility, but it requires diligent cost
 -	Serverless Technologies: We heavily utilize serverless offerings where appropriate. For example, using AWS Lambda for event-driven tasks (e.g., processing an image after upload, sending a welcome email) means we only pay for the compute time during execution, incurring no cost when the functions are idle.
 -	Managed Services: While there is a premium for managed services, they significantly reduce operational overhead and the need for a large DevOps team. The cost of engineers managing database servers often far exceeds the cost of using Amazon RDS.
 
-  
+
+## Technology Stack
+
+
 ## Conclusion 
 The agricultural supply chain is a complex, global and critically important system that has been stifled by inefficiency and a lack of transparency. AgriConnect presents a vision to redefine this chain through technology. However, as we have demonstrated, this vision is only achievable through the deliberate and strategic application of distributed systems principles and cloud-native technologies.
 
