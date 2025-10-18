@@ -44,7 +44,7 @@ AgriConnect is an integrated, cloud-native platform that aims to disrupt the bar
 ### 1.	Key Platform Features & User-Specific Portals
 In catering to its hybrid B2B/B2C model, AgriConnect offers tailored interfaces and capabilities to each user type:
 **•	The Farmer Portal**
-*o	Inventory Management Dashboard:* Farmers can easily list their produce for sale, set dynamic prices, update quantities in real-time, and classify items with descriptions and images.
+- *o	Inventory Management Dashboard:* Farmers can easily list their produce for sale, set dynamic prices, update quantities in real-time, and classify items with descriptions and images.
 *o	Marketplace Access and Order Management:* A unified view of all orders from B2B and B2C buyers with the option to accept, reject, and plan fulfillment of orders.
 *o	Business Analytics Dashboard:* A key differentiator. Farmers gain insights into sales trends, profitability of different crops, seasonal demand patterns, and buyer ratings enabling data-driven decision-making.
 *o	Profile and Storytelling:* Farmers can create profiles to build their brand, inform buyers about their farming practices, and connect with buyers on a more personal level, building trust and loyalty.
